@@ -1,5 +1,7 @@
 package lesson3.Stream;
 
+import lesson4.collections.List.ArrayList.User;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Locale;
